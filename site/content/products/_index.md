@@ -1,7 +1,7 @@
 ---
 title: Premium Features
 type: premium
-images: ![lrknfnfre](https://user-images.githubusercontent.com/101006250/156900878-a6c5fafb-69f0-469e-b9de-4d89280ce24a.jpg)
+images: 'image'![lrknfnfre](https://user-images.githubusercontent.com/101006250/156900878-a6c5fafb-69f0-469e-b9de-4d89280ce24a.jpg)
 
 heading: What we offer
 description: >-
