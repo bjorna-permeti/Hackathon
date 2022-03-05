@@ -32,57 +32,48 @@ intro:
         and within seconds tell you how what claims you can make. 
 
 main:
-  heading: Great coffee with no compromises
+  heading: Making money while doing good 
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Our mission is to make the construction sector more sustainable and circular. 
+    Above we pointed out the ways you will benefit from a premium accout at Brick by Brick. 
+    So what are you waiting for? Get one of our subscriptions now! 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: ![kjsdcncc](https://user-images.githubusercontent.com/101006250/156901982-9246b9e8-544a-408a-8db6-8b9bc4253a59.jpg)
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: ![wcij](https://user-images.githubusercontent.com/101006250/156901991-4aab9fbb-054f-4549-8f48-d1a05b0293da.jpg)
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: ![oweinfne](https://user-images.githubusercontent.com/101006250/156902006-5ded9d72-b58b-4836-bc2b-c7e2b9675b63.jpg)
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+      Using the picture analysis of Brick by Brick is so accurate and really makes a difference when seelling materials. 
+      It is a very reliable quality indicator and creates trust between our customers and my company. 
   - author: Philipp Trommler
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Using the legal and subsidy advice offered in the premium version of Brick by Brick saves me so much time... AND money! 
+full_image: ![owenon](https://user-images.githubusercontent.com/101006250/156902059-851a0592-c94f-4544-99ff-7e69b2aede7f.jpg)
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to sell materials every now and then
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Perfect for a company with unpredictable material supply. 
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - picture analysis included 
+        - upload of up to 5 materials a month
+        - unlimited purchase 
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Great for avid demolishing companies'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - all premium features included 
+        - unlimited uploads 
+        - unlimited purchase 
       plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+      price: '150'
+    - description: Want an individual solution? Try our custom plan
       items:
         - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
       plan: Custom
       price: '?'
 ---
