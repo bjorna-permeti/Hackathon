@@ -1,7 +1,8 @@
 ---
 title: Premium Features
 type: premium
-image: /img/products-jumbotron.jpg
+image: ![image](https://user-images.githubusercontent.com/101006250/156900330-8fe884ce-4c19-4558-a904-1263073b917d.png)
+
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
