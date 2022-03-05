@@ -19,16 +19,16 @@ The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conica
 4. Timing is key, don’t forget the clock.
 
 
----
+
 Available products: 
----
+
 # Unused reinforced concrete  
 image: /img/blog-chemex.jpg
 ## Upbuild Ptd Ltd 
 Surplus reinforced concrete from construction of bridges 
 Tags: #unused #reinforced 
 
----
+
 # Demolished normal strength concrete 
 image 
 ## James and Bob Ptd Ltd 
