@@ -12,7 +12,7 @@ Surplus reinforced concrete from construction of bridges
 
 Tags: #unused #reinforced 
 
-<br >/- 
+<br />
 
 # Demolished normal strength concrete 
 ![demolished concrete](https://user-images.githubusercontent.com/101006225/156900931-6bf0522e-ba98-47cc-b31b-a0f76fad4333.jpg) 
