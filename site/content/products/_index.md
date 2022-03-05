@@ -1,13 +1,10 @@
 ---
 title: Premium Features
 type: premium
-image: ![lrknfnfre](https://user-images.githubusercontent.com/101006250/156901007-4e24a6d5-a615-4b4d-9b27-2450d4dee34d.jpg)
+imageUrl: ![lrknfnfre](https://user-images.githubusercontent.com/101006250/156901007-4e24a6d5-a615-4b4d-9b27-2450d4dee34d.jpg)
 heading: What we offer
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  If you want to get most of your Brick-by-Brick account we strongly suggest getting our premium features which will offer some very valuable additional features and make it even easier and more precise to upload the information about the materials you would like to sell. 
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
