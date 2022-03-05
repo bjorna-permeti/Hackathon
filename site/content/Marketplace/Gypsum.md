@@ -13,7 +13,7 @@ Tags: #demolished
 
 
 ## Surplus gypsum 
-image 
+![new gypsum](https://user-images.githubusercontent.com/101006225/156902236-08a1e476-ab18-4dd9-907d-004038c8d1c0.jpg)  
 # New Life Ptd Ltd 
 Brand new gypsum 
 
