@@ -2,7 +2,6 @@
 title: Premium Features
 type: premium
 image: ![lrknfnfre](https://user-images.githubusercontent.com/101006250/156901007-4e24a6d5-a615-4b4d-9b27-2450d4dee34d.jpg)
-
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
