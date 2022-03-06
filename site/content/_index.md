@@ -14,6 +14,6 @@ products:
       text: "By allowing contractors to resell their material surplus, companies can mitigate their expenses and reduce dramatically the waste of raw materials. Demolished materials can be repurposed and reprocessed. Sustainable material companies that use waste as its source for the production of novel materials with enhanced properties fit for construction and other industries are also included.  "
 values:
     heading: Our values
-    text: BrickbyBrick platform was created, first and foremost, with the care for the environment in mind and we are proud to share our commitment in support sustainable solutions that strive to protect nature and fight the ongoing climate crisis. We, at BrickbyBrick, are strong defenders of a collaboration and working together as communities and making a difference and long lasting impact in our users, and society.
+    text: BrickbyBrick platform was created, first and foremost, with the care for the environment in mind and we are proud to share our commitment in support of sustainable solutions that strive to protect nature and fight the ongoing climate crisis. We, at BrickbyBrick, are strong defenders of a collaborative set-up and believe that by working together as communities we can make a difference and have long-lasting impact in our users, and society.
 ---
 
