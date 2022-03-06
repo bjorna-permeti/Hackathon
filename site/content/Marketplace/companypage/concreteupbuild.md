@@ -2,13 +2,9 @@
 
 ![reinforcedconcrete](https://user-images.githubusercontent.com/101006225/156900625-7c5429b6-3449-4660-964c-78049854a348.png) 
 
-Details: 
+Details: Composition of concrete: XXX 
 
-Composition of concrete: XXX 
-
-Date listed: 
-
-12 January 2022 
+Date listed: 12 January 2022 
 
 # About company 
 Upbuild Ptd Ltd
