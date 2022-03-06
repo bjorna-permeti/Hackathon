@@ -1,8 +1,8 @@
 ## Unused reinforced concrete 
 
-image 
 
-#Details: 
+
+Details: 
 Composition of concrete: XXX 
 
 Date listed: 20 February 2022 
