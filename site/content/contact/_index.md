@@ -1,5 +1,5 @@
 ---
-title: "Sign-up"
+title: "Sign-up Users"
 logo: "![logo](https://user-images.githubusercontent.com/101006250/156913474-941cc60b-25c0-4c06-b935-02e3cc8e9977.png)"
 contact_entries:
   - heading: Location
