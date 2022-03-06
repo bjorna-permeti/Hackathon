@@ -4,6 +4,8 @@
 
 Details: 
 
+Price: £100/kg
+
 Composition of concrete: XXX 
 
 Date listed: 12 January 2022 
