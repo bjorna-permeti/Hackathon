@@ -1,13 +1,12 @@
 ---
-title: Material supply for infrastructure done better
-subtitle: Let's build better and support sustainable construction 
+title: Material supply for infrastructure done better.
+subtitle: Repurposing construction waste one brick at a time 
 image: /img/samuel-regan-asante-g9A2llpDObU-unsplash.jpg.
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
+    heading: Why BrickbyBrick?
+    text: " At BrickbyBrick, we are on a mission to end construction waste by giving it a new purpose and, hence, avoiding its final destination -landfills. Currently, the construction sector is the biggest consumer of raw materials and its related waste amounts to nearly a third of global waste. This leads to over one billion tonnes of construction waste produced yearly ending up on our landfills. To help reduce these threatening statistics, we aim to achieve circularity in the construction sector by recycling material's surplus and demolished contruction material.
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Our platform brings together construction contractors, with suppliers and owners of infrastructure material surplus in an effort to reduce the waste of construction materials. We strive to build a community of builders that value sustainability in their workplace without having to compromise on the quality of the source. "
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
