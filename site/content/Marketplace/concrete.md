@@ -12,7 +12,7 @@ Surplus reinforced concrete from construction of bridges
 
 Tags: #unused #reinforced 
 
-[click here]
+[click here](../companypage/concreteupbuild.md)
 
 
 # Demolished normal strength concrete 
