@@ -22,4 +22,4 @@ Obtained from demolishing a 5 year old building
 
 Tags: #demolished #normal strength 
 
-[Find out more](
+[Find out more](companypage/concretejamesandbob.md)
