@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: "Sign-up"
+logo: "![logo](https://user-images.githubusercontent.com/101006250/156913474-941cc60b-25c0-4c06-b935-02e3cc8e9977.png)"
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
@@ -8,12 +8,11 @@ contact_entries:
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+You can now sign-up, create your own Brick by Brick account and start trading materials. 
+This is totally free of charge. If you want to make the most of you account we recommend 
+getting the premium version and benefitting from our premium features that will take 
+your profile to the next level. 
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+
