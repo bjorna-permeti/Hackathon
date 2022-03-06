@@ -4,7 +4,9 @@ type: premium
 image: ![title](https://user-images.githubusercontent.com/101006250/156913970-26c56e6f-60c6-4a58-8b1d-066646bee660.jpg) 
 heading: Make even more of your account
 description: >-
-If you want to get most of your Brick-by-Brick account we strongly suggest getting our premium features which will offer some very valuable additional features and make it even easier and more precise to upload the information about the materials you would like to sell. 
+If you want to get most of your Brick-by-Brick account we strongly suggest getting our premium features
+which will offer some very valuable additional features and make it even easier and more precise to upload
+the information about the materials you would like to sell. 
 intro:
   blurbs:
     - image: ![größe1](https://user-images.githubusercontent.com/101006250/156901435-36e065cb-6273-4043-ba6b-6d21df92dc58.jpg)
