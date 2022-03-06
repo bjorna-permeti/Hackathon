@@ -1,9 +1,9 @@
 ## Unused reinforced concrete 
 
-image 
+![reinforcedconcrete](https://user-images.githubusercontent.com/101006225/156900625-7c5429b6-3449-4660-964c-78049854a348.png) 
 
-#Details: 
-Composition: XXX 
+Details: 
+Composition of concrete: XXX 
 
 Date listed: 12 January 2022 
 
