@@ -12,7 +12,7 @@ Surplus reinforced concrete from construction of bridges
 
 Tags: #unused #reinforced 
 
-[click here](../companypage/concreteupbuild.md)
+[Find out more](companypage/concreteupbuild.md)
 
 
 # Demolished normal strength concrete 
@@ -21,3 +21,5 @@ Tags: #unused #reinforced
 Obtained from demolishing a 5 year old building 
 
 Tags: #demolished #normal strength 
+
+[Find out more](
